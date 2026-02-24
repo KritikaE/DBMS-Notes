@@ -40,8 +40,7 @@ Isolation, testing for serializability, Lock Based Protocols, Timestamp Based Pr
 Based Protocols, Multiple Granularity, Recovery and Atomicity, Log–Based Recovery, Recovery
 with Concurrent Transactions.
 
-**
-UNIT-V File Organization & Trees**
+**UNIT-V File Organization & Trees**
 File Organization: Data on External Storage, File Organization and Indexing, Cluster Indexes,
 Primary and Secondary Indexes, Index data Structures, Hash Based Indexing, Tree based
 Indexing, Comparison of File Organizations, Indexes-Intuitions for tree Indexes, Indexed
